@@ -4,16 +4,16 @@
 #### I'm a Computer Science student currently working to become a Full Stack Developer.
 
 
-##### 📘 I'm currently learning: Software Engineering and Quality Assurance.
+📘 I'm currently learning: Software Engineering and Quality Assurance.
 
 
-##### 🧰 My study tools are: Java, C#, Angular, dotNet, C#, Js + Node, and more...
+🧰 My study tools are: Java, C#, Angular, dotNet, C#, Js + Node, and more...
 
 
-##### 📫 How to reach me: My nick everywhere (almost everywhere) is: **chalestristian**, then:
+📫 How to reach me: My nick everywhere (almost everywhere) is: **chalestristian**, then:
 
 
-##### 📱 [Linkedin](https://www.linkedin.com/in/chalestristian) - 💬 Discord: chalestristian#5535
+📱 [Linkedin](https://www.linkedin.com/in/chalestristian) - 💬 Discord: chalestristian#5535
 
 
 ---
