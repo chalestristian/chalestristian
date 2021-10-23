@@ -6,8 +6,9 @@
 
 📘 I'm currently learning: Software Engineering and Quality Assurance.
 
+👨‍💻 I'm a Linux user (Ubuntu)
 
-🧰 My study tools are: Java, C#, Angular, dotNet, C#, Js + Node, and more...
+🧰 My study tools are: Vue, Java, C#, Angular, dotNet, C#, Js, Node, and more...
 
 
 📫 How to reach me: My nick everywhere (almost everywhere) is: **chalestristian**, then:
