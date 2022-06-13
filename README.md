@@ -5,6 +5,7 @@
 
 
 📘 Currently learning some interesting stuff around dotNet ecosystem with C#.
+
 👨‍💻 I've been a Linux user last years, but now getting back to Windows for a while.
 
 🧰 My work and study tools are: dotNet, C#, Js, Node, Angular, and some more...
