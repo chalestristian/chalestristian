@@ -1,36 +1,51 @@
-**ENG🇺🇸**
+**PT-BR🇧🇷**
 
-### Hi there 👋, I'm Thales.
-### I am a Computer Science graduate currently employed as a Software Developer.
+## Olá 👋, eu sou o Thales.
 
-📘 Currently learning some interesting stuff around .NET ecosystem with C#.
+### Sou graduado em Ciências da Computação & Pós graduando em Gestão de Projetos de TI.
 
-👨‍💻 I've been a Linux user, but now getting back to Windows for a while.
+🚀 **Projeto em Destaque: Verifile**
+Atualmente, estou dedicado ao desenvolvimento do Verifile, uma solução SaaS projetada para pequenas e médias empresas (PMEs) que buscam otimizar seus fluxos de trabalho com documentos.
 
-🧰 My work and study tools are: .NET, C#, Js, Node, Angular, and some more...
+**O Problema:** PMEs frequentemente lidam com processos manuais, inseguros e desorganizados para compartilhar arquivos sensíveis, ou enfrentam o alto custo de softwares corporativos complexos
 
-📫 How to reach me: My nick everywhere (well..., almost everywhere) is: **chalestristian**:
+**A Solução:** O Verifile oferece um portal seguro e intuitivo onde equipes podem gerenciar, compartilhar e rastrear documentos importantes com uma experiência profissional voltada para o cliente, algo que soluções genéricas de armazenamento em nuvem não proporcionam.
 
-- 📱 [Linkedin](https://www.linkedin.com/in/chalestristian)
+🛠️ **Minhas Habilidades**
 
-### ⚡ Fun fact:
-*Before I started my career, would you believe I wanted to be a marine biologist? I changed my mind when I discovered the code world, and also when I found out I'm afraid of fish 🐡 😅.*
+* **Linguagens & Frameworks:** C#, .NET Core/.NET Framework, JavaScript, TypeScript, Node.js, Angular, Vue
+* **Arquitetura & Padrões:** Microsserviços, APIs RESTful, Clean Code, TDD, DDD, Design Patterns
+* **Bancos de Dados:** PostgreSQL, SQL Server, MySQL, Entity Framework, Dapper
+* **DevOps & Cloud:** Docker, Kubernetes, CI/CD, DevSecOps, AWS, Cloudflare
+* **Ferramentas & Metodologias:** Git (GitHub/GitLab), Scrum, Kanban, JIRA, Azure DevOps
+
+### ⚡ Fato curioso:
+
+*Antes de mergulhar no mundo do código, eu queria ser biólogo marinho. Mudei de ideia quando descobri minha paixão por desenvolver soluções e, claro, quando percebi que tenho um medo irracional de peixes 🐡😅.*
 
 ---
 
-**PT-BR🇧🇷**
+**ENG🇺🇸**
 
-### Olá 👋, eu sou o Thales.
-### Sou graduado em Ciências da Computação e trabalho como Desenvolvedor de Software.
+## Hi there 👋, I'm Thales.
 
-📘 Estou atualmente aprendendo algumas coisas interessantes sobre o ecossistema .NET com C#.
-👨‍💻 Fui usuário Linux, mas agora estou voltando para o Windows por um tempo.
+### I hold a degree in Computer Science & I am pursuing a postgraduate degree in IT Project Management.
 
-🧰 Minhas ferramentas de trabalho e estudos são: .NET, C#, Js, Node, Angular, Vue, e algumas outras...
+🚀 **Featured Project: Verifile**
+I am currently dedicated to developing Verifile, a SaaS solution designed for small and medium-sized businesses (SMBs) looking to streamline their document workflows.
 
-📫 Como me encontrar: Meu nickname em todos os lugares (bom..., em quase todos os lugares) é: **chalestristian**:
+**The Problem:** SMBs often rely on manual, insecure, and disorganized processes to share sensitive files, or they face the high cost of complex enterprise-grade software.
 
-- 📱 [Linkedin](https://www.linkedin.com/in/chalestristian)
+**The Solution:** Verifile provides a secure and intuitive portal where teams can easily manage, share, and track important documents with a professional, client-facing experience that generic cloud storage solutions lack.
 
-### ⚡ Fato engraçado:
-*Antes de eu começar minha carreira, você acredita que eu queria ser um biólogo marinho? Eu mudei de idéia quando eu descobri o mundo dos códigos, e também quando eu descobri que tenho medo de peixe 🐡 😅.*
+🛠️ **My Skill Set**
+
+* **Languages & Frameworks:** C#, .NET Core/.NET Framework, JavaScript, TypeScript, Node.js, Angular, Vue
+* **Architecture & Patterns:** Microservices, RESTful APIs, Clean Code, TDD, DDD, Design Patterns
+* **Databases:** PostgreSQL, SQL Server, MySQL, Entity Framework, Dapper
+* **DevOps & Cloud:** Docker, Kubernetes, CI/CD, DevSecOps, AWS, Cloudflare
+* **Tools & Methodologies:** Git (GitHub/GitLab), Scrum, Kanban, JIRA, Azure DevOps
+
+### ⚡ Fun Fact:
+
+*Before diving into the world of code, I wanted to be a marine biologist. I changed my mind when I discovered my passion for developing solutions and, of course, when I found out I have an irrational fear of fish 🐡😅.*
